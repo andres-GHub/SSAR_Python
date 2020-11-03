@@ -1,2 +1,2 @@
-# Self-similar aftershock rates (SSAR) model Python code
-Python code used to carry out the statistical analysis of magnitude correlations for the self-similar aftershock rates (SSAR) model, the catalog ("TimeMagLT.txt") used in the analysis, along with the data for the plots.
+# Self-similar aftershock rates (SSAR) model code
+Python code used to carry out the statistical analysis of magnitude correlations published in https://npg.copernicus.org/articles/27/1/2020/npg-27-1-2020.html for the self-similar aftershock rates (SSAR) model presented in https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022314, the catalog ("TimeMagLT.txt") used in the analysis, along with the data for the plots.
